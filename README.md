@@ -11,6 +11,4 @@ This study project is about setting the theme light or dark in your application 
 - [Live Demo](https://kleber-smartdev.github.io/Theme-By-System-Hours-Click-v2.0/)
 
 ### Contribute, Fork it, Share it!
-https://kleberux.com/
-<br>
 😉🚀
